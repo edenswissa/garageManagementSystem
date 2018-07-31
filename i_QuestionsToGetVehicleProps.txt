@@ -1,0 +1,3 @@
+string Which model is your vehicle?
+float How much energy left in the vehicle?
+string Who is your wheels' manufacturer?

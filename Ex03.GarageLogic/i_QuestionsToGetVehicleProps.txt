@@ -1,0 +1,3 @@
+Which model is your vehicle?
+What is your licence number? 
+How much energy left in the vehicle?

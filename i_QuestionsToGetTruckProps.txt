@@ -1,0 +1,2 @@
+string Do you have dangerous cargo on your truck? Press Y for YES or N for NO.
+float What is the maximum cargo weight allowed?

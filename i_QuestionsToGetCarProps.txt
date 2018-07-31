@@ -1,0 +1,2 @@
+int Please Select the car's color (1 for silver/ 2 for blue/3 for black/4 for white)
+int How many doors in the car? (2/3/4/5)
