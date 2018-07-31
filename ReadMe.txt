@@ -5,5 +5,5 @@ Delivery Date.........: 18/9/2016
 Delivered In Delay....: No
 Delay Reason..........: None
 Visual Studio Version.: 2013
-Comments..............: Must locate the .txt files we added to the folder in c:\Temp !!!!
+Comments..............: Must locate the .txt files that added to the folder in c:\Temp !!!!
 =======================End Exercise Checking Report=========================
